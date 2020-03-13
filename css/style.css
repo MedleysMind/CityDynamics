@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+canvas{
+    /* padding: 10%; */
+    /* background-color: green; */
+    border: 25px solid black;
+}
+#topPage{
+    padding-bottom: 1%;
+}
